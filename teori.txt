@@ -1,0 +1,8 @@
+muh syahrindra sofyan waridi
+21090035
+algoritma pemprograman
+
+1.) Matrik merupakan sekumpulan informasi yang setiap individu elemenya diacu dengan 
+menggunakan dua buah indeks (baris dan kolom). Dua buah indeks menunjukkan dimensi matriks 1. 
+Suatu array di Java dapat dibentuk dengan mendefinisikan array dua dimensi. Kemudian kita dapat 
+mengisi setiap elemen secara manual dengan mengakses setiap elemennya.
